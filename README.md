@@ -8,7 +8,8 @@
 - **Platform:** Optimized for laptop/desktop.
 
 ## Demo
-![Uploading demo.gif…]()
+![demo](https://github.com/user-attachments/assets/5d0f4e36-0a2e-4cd0-b6ac-68c3c98d38f3)
+
 
 
 Watch the demo of CyberSwing below:
