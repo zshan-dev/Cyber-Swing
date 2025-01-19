@@ -20,6 +20,7 @@ Watch the demo of CyberSwing below:
 
 ## Technologies Used
 
+NOTE: Code can be found in Assests/Scripts
 The development of **CyberSwing** involves the use of the following technologies and programming languages:
 
 - **C#: The primary programming language used for implementing game mechanics, player controls, and overall logic in Unity.
