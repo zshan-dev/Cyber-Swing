@@ -76,7 +76,7 @@ Unity's physics engine brings the swinging to life, simulating gravity and inert
 
 ## Development Team Responsibilities
 - **Sambhav:** Development of core gameplay mechanics, especially grappling and swinging systems, refining **Rigidbody** settings for desired swing behavior and player feedback.
-- **Zeeshan:** Creation of challenging, visually engaging levels that naturally escalate in difficulty, testing the player's reflexes and rewarding strategic use of swinging mechanics.
+- **Zeeshan:** Development of core gameplay mechanics, especially wall running, player respawn and camera movement. Creation of challenging, visually engaging levels that naturally escalate in difficulty as well as the menu screen.
 
 ---
 
